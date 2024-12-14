@@ -1,2 +1,1 @@
-# Parking-Space-Detection
-This is a python project where concept of deep learning is used
+This is my academic project for the 7th semester of engineering. In this project, I have used Python as the programming language and applied deep learning techniques to train a model that can identify cars and empty parking spaces.  The trained mode (empty_va_occiped.h5) is used  in a marked parking spot in order to determine whether they are empty or occupied.
